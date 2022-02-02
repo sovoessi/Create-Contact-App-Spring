@@ -35,4 +35,13 @@ public class Contact {
         this.phoneNumber = phoneNumber;
         this.type = type;
     }
+
+    public Contact updateWith(Contact contact) {
+        return new Contact(
+                contact.firstName,
+                contact.lastName,
+                contact.phoneNumber,
+                contact.type
+        );
+    }
 }
