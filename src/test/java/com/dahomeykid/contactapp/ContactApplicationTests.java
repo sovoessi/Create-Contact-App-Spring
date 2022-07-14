@@ -1,4 +1,4 @@
-package com.example.contactapp;
+package com.dahomeykid.contactapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,8 +1,8 @@
-package com.example.contactapp;
+package com.dahomeykid.contactapp;
 
-import com.example.contactapp.contact.Contact;
-import com.example.contactapp.contact.ContactRepository;
-import com.example.contactapp.contact.ContactType;
+import com.dahomeykid.contactapp.contact.Contact;
+import com.dahomeykid.contactapp.contact.ContactRepository;
+import com.dahomeykid.contactapp.contact.ContactType;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

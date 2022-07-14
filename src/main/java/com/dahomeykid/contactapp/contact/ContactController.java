@@ -1,4 +1,4 @@
-package com.example.contactapp.contact;
+package com.dahomeykid.contactapp.contact;
 
 
 import lombok.AllArgsConstructor;

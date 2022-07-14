@@ -1,4 +1,4 @@
-package com.example.contactapp.contact;
+package com.dahomeykid.contactapp.contact;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;

@@ -1,4 +1,4 @@
-package com.example.contactapp.flow;
+package com.dahomeykid.contactapp.flow;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
